@@ -16,7 +16,7 @@
 <a href="https://www.researchgate.net/profile/Pritesh_Gohil">
   <img align="left" alt="Pritesh's Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />
 </a>
-<a href="https://stackoverflow.com/users/10451749/pritesh-gohil">
+<a href="https://stackoverflow.com/users/10451749/pritesh-gohil?tab=profile">
   <img align="left" alt="Pritesh's Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <br />
