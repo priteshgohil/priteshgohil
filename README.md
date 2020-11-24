@@ -1,16 +1,31 @@
-### Hi there 👋
+### Namaste <img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" width="25px"> I am [Pritesh Gohil](https://priteshgohil.github.io).
 
-<!--
-**priteshgohil/priteshgohil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/priteshbgohil)
+[![GitHub followers](https://img.shields.io/github/followers/priteshgohil?label=Follow&style=social)](https://github.com/priteshgohil)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=priteshgohil.visitor-badge)
 
-Here are some ideas to get you started:
+<a href="https://medium.com/@priteshbgohil">
+  <img align="left" alt="Pritesh Gohil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://www.instagram.com/pixel_ryb/">
+  <img align="left" alt="Pritesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.xing.com/profile/Pritesh_Gohil/cv">
+  <img align="left" alt="Pritesh's Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />
+</a>
+<a href="https://www.researchgate.net/profile/Pritesh_Gohil">
+  <img align="left" alt="Pritesh's Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />
+</a>
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently a student [@HBRS](https://www.h-brs.de/) in Bonn, Germany and master thesis student [@Expleo](https://de.expleogroup.com/de/). Beside's programming, I enjoy acrylic painting and cooking.
+
+**Languages and Tools:**  
+<br />
+<a href="https://www.docker.com/get-started">
+  <img align="left" alt="Pritesh's Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
+</a>
+<br />
+
+- 🔭 I’m currently working on Computer Vision and Convolutional Neural Network (CNN).
+- 📫 How to reach me: [@priteshgohil](https://www.linkedin.com/in/priteshbgohil);
