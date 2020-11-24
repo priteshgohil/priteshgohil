@@ -69,7 +69,5 @@ I am currently a student [@HBRS](https://www.h-brs.de/) in Bonn, Germany and mas
 - 🔭 I’m currently working on Computer Vision and Convolutional Neural Network (CNN).
 - 📫 How to reach me: [@priteshgohil](https://www.linkedin.com/in/priteshbgohil);
 
-<br /> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=priteshgohil&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priteshgohil&layout=compact&hide=html" alt="priteshgohil" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priteshgohil&show_icons=true" alt="priteshgohil" /></p>
