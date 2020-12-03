@@ -24,6 +24,9 @@
 
 I am currently a student [@HBRS](https://www.h-brs.de/) in Bonn, Germany and master thesis student [@Expleo](https://de.expleogroup.com/de/). Beside's programming, I enjoy acrylic painting and cooking.
 
+- 🔭 I’m currently working on Computer Vision and Convolutional Neural Network (CNN).
+- 📫 How to reach me: [@priteshgohil](https://www.linkedin.com/in/priteshbgohil)
+
 **Languages and Tools:**  
 <br />
 <a href="https://www.docker.com/get-started">
@@ -65,9 +68,6 @@ I am currently a student [@HBRS](https://www.h-brs.de/) in Bonn, Germany and mas
 <br />
 
 
-
-- 🔭 I’m currently working on Computer Vision and Convolutional Neural Network (CNN).
-- 📫 How to reach me: [@priteshgohil](https://www.linkedin.com/in/priteshbgohil);
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priteshgohil&layout=compact&hide=html" alt="priteshgohil" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priteshgohil&show_icons=true" alt="priteshgohil" /></p>
