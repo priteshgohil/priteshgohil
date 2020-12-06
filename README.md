@@ -1,4 +1,4 @@
-### Namaste <img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" width="25px"> I am [Pritesh Gohil](priteshbgohil.medium.com).
+### Namaste <img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" width="25px"> I am [Pritesh Gohil](https://priteshbgohil.medium.com/).
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/priteshbgohil)
 [![GitHub followers](https://img.shields.io/github/followers/priteshgohil?label=Follow&style=social)](https://github.com/priteshgohil)
