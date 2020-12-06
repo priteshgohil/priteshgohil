@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/priteshgohil?label=Follow&style=social)](https://github.com/priteshgohil)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=priteshgohil.visitor-badge)
 
-<a href="priteshbgohil.medium.com">
+<a href="https://priteshbgohil.medium.com">
   <img align="left" alt="Pritesh Gohil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://www.instagram.com/pixel_ryb/">
