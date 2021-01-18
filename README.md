@@ -22,7 +22,7 @@
 <br />
 <br />
 
-I am currently a student [@HBRS](https://www.h-brs.de/) in Bonn, Germany and master thesis student [@Expleo](https://de.expleogroup.com/de/). Beside's programming, I enjoy acrylic painting and cooking.
+I am currently a master student in Autonomous Systems [@HBRS](https://www.h-brs.de/) in Bonn, Germany and master thesis student [@Expleo](https://de.expleogroup.com/de/). Beside's programming, I enjoy acrylic painting and cooking.
 
 - 🔭 I’m currently working on Computer Vision and Convolutional Neural Network (CNN).
 - 📫 How to reach me: [@priteshgohil](https://www.linkedin.com/in/priteshbgohil)
